@@ -1,0 +1,3 @@
+easyocr==1.7.1
+opencv-python==4.8.1.78
+pytesseract==0.3.10
