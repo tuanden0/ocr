@@ -347,4 +347,9 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Large files
+*.pth
+*.pkl.gz
+*.txt.gz
+
 # End of https://www.toptal.com/developers/gitignore/api/pycharm+all,python,windows,macos,linux,venv
